@@ -1,0 +1,17 @@
+.heroSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 280px;
+    width: 100vw;
+    background-color: black;
+    color: aliceblue;
+}
+
+.heroSectionText {
+    /* display: flex;
+    /* align-items: center; */
+    text-align: center; 
+    font-size: 30px;
+
+}
